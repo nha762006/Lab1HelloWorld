@@ -1,4 +1,1 @@
-﻿# Lab1_HelloWorld
-
-
-<img width="450" height="400" alt="Screenshot 2026-03-06 150417" src="https://github.com/user-attachments/assets/b88ba3d0-7938-47ed-8d8e-1720698410e9" />
+<img width="367" height="810" alt="Screenshot 2026-03-06 150417" src="https://github.com/user-attachments/assets/99ab8429-a20f-45d7-9cd8-d2f6cf1c2160" />
